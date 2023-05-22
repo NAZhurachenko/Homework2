@@ -1,1 +1,37 @@
-/*# sourceMappingURL=Homework1.css.map */
+.start {
+  background-image: url(img/bcg.jpg);
+}
+
+.heading {
+  padding-left: 120.22px;
+  padding-top: 217.1px;
+  font-style: normal;
+  font-weight: 700;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.point {
+  font-style: normal;
+  font-weight: 300;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.go {
+  width: 234.06px;
+  height: 48.6px;
+  left: 120px;
+  top: 482.11px;
+  background: #9C0332;
+  border-radius: 30px;
+}
+
+.menu {
+  height: 556px;
+  background: #000915;
+  display: flex;
+  flex-wrap: wrap;
+  -moz-column-gap: 32px;
+       column-gap: 32px;
+}/*# sourceMappingURL=Homework1.css.map */
